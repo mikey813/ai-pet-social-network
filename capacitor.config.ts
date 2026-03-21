@@ -5,7 +5,7 @@ const config: CapacitorConfig = {
   appName: 'WePet',
   webDir: 'public',
   server: {
-    url: 'https://你的线上域名',
+    url: 'https://ai-pet-social-network.vercel.app',
     cleartext: false,
   },
 }
